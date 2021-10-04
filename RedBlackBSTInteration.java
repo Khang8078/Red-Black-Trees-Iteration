@@ -9,13 +9,9 @@
  --> In put(), it will update the node so that the tree will maintain the presentation
  of red-black BST.
 
- --> Until the last day, I've finished a half of the delete() method.
- I submitted as much as I can.
- Now, The delete() method only works for the key when it at the bottom.
+ --> Now, The delete() method only works for the key when it at the bottom.
  I use the same idea which starts from the root node to traverse the tree
  downwards to find the correct leaf node
-
- --> I submitted a trace of each put() method
  ********************/
 import java.util.NoSuchElementException;
 import edu.princeton.cs.algs4.*;
